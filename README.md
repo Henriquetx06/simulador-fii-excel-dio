@@ -53,15 +53,6 @@ Os percentuais de alocação foram estruturados na aba **Tabela de apoio** e dis
 
 ---
 
-## 🚀 Diferenciais e Evolução (Teix Invest)
-
-Em relação ao modelo base apresentado no curso, a versão **Teix Invest** conta com as seguintes melhorias:
-1. **Identidade Visual Customizada:** Banner profissional `Teix Invest`, remoção de linhas de grade e paleta de cores verde/cinza voltada para o mercado financeiro.
-2. **Gráfico Dinâmico:** Inserção de um gráfico de rosca que atualiza automaticamente a proporção da carteira conforme o perfil selecionado.
-3. **Módulo de Sugestão Automatizada:** Bloco de configurações que calcula uma recomendação de aporte de 30% com base no salário informado.
-
----
-
 ## 🖼️ Demonstração Prática
 
 ### Simulação 1: Perfil Moderado
