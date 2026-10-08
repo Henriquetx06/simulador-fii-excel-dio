@@ -67,5 +67,5 @@ Em relação ao modelo base apresentado no curso, a versão **Teix Invest** cont
 ### Simulação 1: Perfil Moderado
 > *<img width="1105" height="923" alt="image" src="https://github.com/user-attachments/assets/51a33fb0-1d32-4f99-a28b-c2930b8a1a4a" />*
 
-### Simulação 2: Perfil Conservador / Agressivo
+### Simulação 2: Perfil Agressivo
 > *<img width="1103" height="903" alt="image" src="https://github.com/user-attachments/assets/6ab7aa82-7d25-4688-8075-fc861d19ee57" />*
